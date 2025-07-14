@@ -38,9 +38,14 @@ Eager to leverage and expand this versatile skill set in a dynamic, real-world I
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### System Administration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CCNA](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
@@ -48,25 +53,27 @@ Eager to leverage and expand this versatile skill set in a dynamic, real-world I
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+
+
 ---
 
 ## 🏆 Certifications
 
-- **Red Hat Certified System Administrator (RHCSA)**
-- **AWS Cloud Practitioner (in progress)**
-- **CCNA (in progress)**
+- ![RedHat](https://img.shields.io/badge/-RHCSA-red?style=flat-square&logo=redhat&logoColor=white) [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/1959d47c-0d22-40c6-aab7-59932456a9e2)
+- ![AWS](https://img.shields.io/badge/-AWS_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white) [AWS Cloud Practitioner (in progress)](#)
+- ![Cisco](https://img.shields.io/badge/-CCNA-blue?style=flat-square&logo=cisco&logoColor=white) [Cisco Certified Network Associate (CCNA) (in progress)](#)
 
 ---
 
 ## 🚀 Projects
 
-### 1. **CI/CD Pipeline for Analog Clock App**
+### 1. [**CI/CD Pipeline for Analog Clock App**](https://github.com/MohammedOsamaHassan/CICD_Project.git)
 - Built a full CI/CD pipeline using **Jenkins, Docker, Kubernetes, and Terraform** to automate deployment of a web application.
-- [https://github.com/MohammedOsamaHassan/CICD_Project.git](#)
 
-### 2. **WordPress Deployment using Ansible**
+
+### 2. [**WordPress Deployment using Ansible**](https://github.com/MohammedOsamaHassan/Ansible_Project.git)
 - Automated installation and configuration of **WordPress** on both **Red Hat** and **Ubuntu** servers.
-- [https://github.com/MohammedOsamaHassan/Ansible_Project.git](#)
+
 
 ---
 
