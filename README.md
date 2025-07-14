@@ -4,14 +4,12 @@
 </h1>
 
 <h3 align="left">
-  Junior System Administrator & DevOps Engineer | Linux & Cloud Enthusiast | Automation Advocate
+  Junior System Administrator & DevOps Engineer 
 </h3>
 
 <!-- Typing SVG -->
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&width=435&lines=Learning+Every+Day;Linux+%26+Cloud+Enthusiast;Automation+%26+CI%2FCD+Advocate&font=Fira%20Code&size=22&color=00ff00&vCenter=true">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2AF71B&width=435&lines=System+Administrator+;DevOps+%26+Cloud;Always+Learning+%26+Improving" alt="Typing SVG" /></a>
 </p>
 
 <img width="300" align="right" src="https://c.tenor.com/2y7LXWpU1zAAAAAM/devops-automation.gif">
@@ -84,14 +82,6 @@ Eager to leverage and expand this versatile skill set in a dynamic, real-world I
 
 ---
 
-## 🌟 Soft Skills
-
-- **Problem Solving**
-- **Teamwork**
-- **Fast Learning**
-- **Adaptability**
-
----
 
 ## 📫 Let's Connect!
 
@@ -101,13 +91,6 @@ Feel free to reach out for collaborations, job opportunities, or just a chat!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.osama.hassan122@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedOsamaHassan)
 
----
-
-<p align="left">
-  <i>“The best way to predict the future is to create it.” – Peter Drucker</i>
-</p>
-
----
 
 ### Visitor Count
 
@@ -115,4 +98,4 @@ Feel free to reach out for collaborations, job opportunities, or just a chat!
 
 ---
 
-⭐️ From [Mohamed Osama](https://github.com/YOUR-GITHUB-USERNAME)
+⭐️ From [Mohamed Osama](https://github.com/MohammedOsamaHassan)
